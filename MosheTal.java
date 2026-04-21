@@ -2,7 +2,7 @@ public class MosheTal{
 	public static void main(String[] args){
 		for(int i=0;i<=10;i++)
 		{
-			System.out.println("Moshe Tal");
+			System.out.println("Moshe Yaniv Tal");
 		}
 	}
 }
